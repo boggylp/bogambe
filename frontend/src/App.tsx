@@ -23,7 +23,7 @@ function App() {
           Edit <code>src/App.tsx</code> and save to test HMR
         </p>
       </div>
-      <p class="read-the-docs">Click on the Vite and Solid logos to learn more</p>
+      <p class="read-the-docs">This is a first baby stept towards Bogambe's website</p>
     </>
   );
 }
